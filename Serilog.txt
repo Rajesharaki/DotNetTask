@@ -1,0 +1,42 @@
+Serilog:
+---------
+   serilog is a structural logging libary for microsoft .net
+
+Logging Provider stores or Displays Logs
+----------------------------------------
+
+Console Logging Provider
+========================
+         Displays Logs on the Console
+
+Debug Logging Provider
+=======================
+         Displays logs on The Debug output window in Vs
+
+Logging level severity
+----------------------
+Trace=0
+Debug=1
+Information=2
+Warning=3
+Error=4
+Critical=5
+None=6
+
+IOptions<T>
+-------------
+When using this, the values will always be same for the lifetime of the application.
+Changing the value of the appsettings file while the application is running will not
+make any difference to the value when using IOptions. In other words it is in Singleton scope.
+
+IOptionsSnapshot<T>
+--------------------
+Using this will always give you the most up to date values in your config file for 
+every request and will remain the same for the during of your request.
+
+IOptionsMonitor<T>
+-------------------
+Using the monitor is almost like having real time access to your settings file.
+Each time you need the value from the config, it will read it and evaluate whatever is there and return that.
+
+The IOptions service is used to bind strongly types options class to configuration section and registers it to the Asp.Net Core Dependency Injection Service Container

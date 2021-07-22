@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "ghuAXtfxnhDTbw9GoHv8RHN6HPrRH8N9DB42ASKfQRoW98NJOepMwJYxu2rpHEWyc2/K0QthVruJ99rr7knEoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rajes\\OneDrive\\Desktop\\Task\\FireBasePushNotification\\FireBasePushNotification\\FireBasePushNotification.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rajes\\.nuget\\packages\\firebaseadmin\\2.1.0\\firebaseadmin.2.1.0.nupkg.sha512",
+    "C:\\Users\\rajes\\.nuget\\packages\\google.api.gax\\3.2.0\\google.api.gax.3.2.0.nupkg.sha512",
+    "C:\\Users\\rajes\\.nuget\\packages\\google.api.gax.rest\\3.2.0\\google.api.gax.rest.3.2.0.nupkg.sha512",
+    "C:\\Users\\rajes\\.nuget\\packages\\google.apis\\1.49.0\\google.apis.1.49.0.nupkg.sha512",
+    "C:\\Users\\rajes\\.nuget\\packages\\google.apis.auth\\1.49.0\\google.apis.auth.1.49.0.nupkg.sha512",
+    "C:\\Users\\rajes\\.nuget\\packages\\google.apis.core\\1.49.0\\google.apis.core.1.49.0.nupkg.sha512",
+    "C:\\Users\\rajes\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\rajes\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\rajes\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

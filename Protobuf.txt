@@ -1,0 +1,74 @@
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+What are Protocol Buffers? 
+----------------------------
+Protocol buffers language-neutral, platform-neutral extensible mechanism for serializing structured data over the network, think XML but faster, smaller and more straightforward
+all data structures definition will be saved in the .proto file. Read and write structured data with a variety of data streams and a variety of languages
+
+Why we need Protobuf? 
+-------------------------
+JSON has many benefits as an information exchange format- it is human intelligible, understandable and typically performs great. It also has its issues.
+Where browsers and java scripts are not using the data directly – particularly in the case of internal communication services protocol buffers are the best choice over JSON 
+for encoding data. It is a binary encoding format that permits you to define your schema for your data with a stipulation language. 
+The Protocol Buffers stipulation is performed in different languages: Java, C, Go, etc. are all supported, and most modern languages have a practical implementation.
+
+Protobuf messages
+-------------------
+Messages are the main data transfer object in Protobuf. They are conceptually similar to .NET classes.
+
+Protobuff Number:
+-----------------
+in addition to a name, each field in the message definition has a unique number. Field numbers are used to identify fields when the message is serialized to Protobuf. 
+Serializing a small number is faster than serializing the entire field name.
+ Because field numbers identify a field it is important to take care when changing them. For more information about changing Protobuf messages see Versioning gRPC services.
+
+How does Google Protocol Buffers work? 
+Define the schema for data, and we need to start with. Proto file adds a message to each data structure for serializing them then add name and type for all field in the news. The syntax is similar to c++ or java. Let’s go through the program and see what it does. It starts with the declaration, which helps to stop conflicts between different projects. the definition in your .proto file will not affect the generated code. Next, you have your message definitions. A message contains all sets of typed fields. Standard data types are available as field type you can choose according to a requirement including bool, int32, string float, double, etc. we can define nested type messages. The “= 1”, “= 2” markers on all fields are a unique identifier that is used by the binary encoding. Tag between 1- 15 requires one or less byte to encode than a higher number. 
+
+
+• Define message formats in a .proto file. 
+
+• Use the protocol buffer compiler. 
+
+• Use the Python/java protocol buffer API to write and read messages 
+
+What are the Advantages of Protobuf?
+-------------------------------------
+Lightweight 
+Takes up less Space 
+Faster transmission 
+Validation of data structure 
+Easy to modify the schema 
+
+Who Should use Google protocol Buffers?
+----------------------------------------
+Don’t use it if 
+-----------------
+• A browser consumes data from service. 
+
+• Largely JavaScript Architecture. 
+
+• Large Packet Sizes. 
+
+• Young Start-up. 
+
+Worth looking into if 
+-----------------------
+• NodeJS server is talking to native android apps. 
+
+• Micro-service architecture spanning multiple languages. 
+
+• High data throughput. 
+
+Limits of Protobuf 
+-------------------
+• Protobuf has a hard limit of 2 GB because it uses 32-bit signed arithmetic in many implementations. 
+
+• The default impose size limit is 64 MB. You can increase the size limit manually. 
+
+• We need to parse the entire message before use content. 
+
+• The entire message must fit into ram 
+
+• limit yourself to 1MB as a rule of thumb 

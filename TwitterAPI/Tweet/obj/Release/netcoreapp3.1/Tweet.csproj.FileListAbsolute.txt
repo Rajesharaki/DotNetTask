@@ -1,0 +1,9 @@
+C:\Users\rajes\OneDrive\Desktop\Task\TwitterAPI\Tweet\bin\Release\netcoreapp3.1\Tweet.deps.json
+C:\Users\rajes\OneDrive\Desktop\Task\TwitterAPI\Tweet\bin\Release\netcoreapp3.1\Tweet.dll
+C:\Users\rajes\OneDrive\Desktop\Task\TwitterAPI\Tweet\bin\Release\netcoreapp3.1\Tweet.pdb
+C:\Users\rajes\OneDrive\Desktop\Task\TwitterAPI\Tweet\obj\Release\netcoreapp3.1\Tweet.csprojAssemblyReference.cache
+C:\Users\rajes\OneDrive\Desktop\Task\TwitterAPI\Tweet\obj\Release\netcoreapp3.1\Tweet.AssemblyInfoInputs.cache
+C:\Users\rajes\OneDrive\Desktop\Task\TwitterAPI\Tweet\obj\Release\netcoreapp3.1\Tweet.AssemblyInfo.cs
+C:\Users\rajes\OneDrive\Desktop\Task\TwitterAPI\Tweet\obj\Release\netcoreapp3.1\Tweet.csproj.CoreCompileInputs.cache
+C:\Users\rajes\OneDrive\Desktop\Task\TwitterAPI\Tweet\obj\Release\netcoreapp3.1\Tweet.dll
+C:\Users\rajes\OneDrive\Desktop\Task\TwitterAPI\Tweet\obj\Release\netcoreapp3.1\Tweet.pdb

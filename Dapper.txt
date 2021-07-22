@@ -1,0 +1,59 @@
+Dapper:
+-------
+   Dapper is a simple object mapper framework which helps to map the native query output to a domain class .
+it is a high performance data access system built by stack overflow team
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+redis:
+------
+Redis is an open source in-memory data store, which is often used as a distributed cache
+A cache is a hardware or software component that stores data so that future requests for that data can be served faster
+the data stored in a cache might be the result of an earlier computation or a copy of data stored elsewhere
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Repositary Pattern:
+--------------------
+  Repositary pattern is an abstraction of the Data access Layer. it hides the details how exactly the data is save or retrived from Underlaying Data source.
+The Repositary Patter atleast contain Two Paticipant one reposiatry interface and repositary implementaion which inherits Repositary interface
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Message Pack:
+----------------
+   Message Pack is an efficient binay serialization format. it lets us exchange data among multiple languages like json but
+faster and space efficent
+
+There are quite a few reasons for these performance/space advantages, mainly due to the way common data types are being stored, for example:
+---------------------------------------------------------------------------------------------------------------------------------------------------
+JSON uses 4 bytes to represent null, MessagePack only requires 1 byte
+JSON uses 2 bytes to represent a typical int, MessagePack requires 1 byte and so on
+Also, since it’s binary, it’s (generally speaking) faster to read and write than JSON
+
+This will set up MessagePack with the default options:
+------------------------------------------------------
+the media type used will be application/x-msgpack
+both input and output formatters will be registered
+an extension .mp will be mapped to the MessagePack formatter
+ContractlessStandardResolver will be used for serialization/deserialization – this means that you can use your DTOs without any extra attributes/annotations
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FluentValidation
+--------------------
+Fluent Validation allows you to separate validation rules from your model and helps you structure the rules so that they are nice and readable.
+
+     Data annotaion                              Fluent validation
+-----------------------------------------------------------------------------------------------------------------------------------------------
+1.Data annotations are used to     2.Fluent validation is an open source validation libary
+ feed meta data to the models        Used to solve the complex validation requriments
+
+2.It dont support conditional     2.Fluent validation make it is easy to implement condition validation by using some fields
+  validation out of the box
+
+3.unit testing is tough           3.unit testing is easy compare to data annotaion
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+

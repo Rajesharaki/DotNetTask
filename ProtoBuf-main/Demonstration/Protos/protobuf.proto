@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcService1";
+
+message WeatherForecast{
+	int32 TemperatureC=1;
+	string Summary=2;
+}

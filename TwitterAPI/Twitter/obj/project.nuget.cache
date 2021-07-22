@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F/GsFmtyBZHt0Z6GcYjgbU7BUhgFGIX7paJxY0/DCSwLeROODnL2ZuhQjoMsXkn7PqTv5w5PDOewdDANldQLaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rajes\\OneDrive\\Desktop\\Task\\TwitterAPI\\Twitter\\Twitter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rajes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

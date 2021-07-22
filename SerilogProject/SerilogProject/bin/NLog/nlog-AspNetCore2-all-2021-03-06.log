@@ -1,0 +1,61 @@
+2021-03-06 17:57:47.5955|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-03-06 17:57:47.7318|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-03-06 17:57:47.7318|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\rajes\OneDrive\Desktop\Task\SerilogProject\SerilogProject
+2021-03-06 17:57:47.8014|INFO|SerilogProject.Controllers.WeatherForecastController|called weather forecast
+2021-03-06 17:57:47.8060|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 0
+2021-03-06 17:57:47.8060|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 1
+2021-03-06 17:57:47.8223|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 2
+2021-03-06 17:57:47.8223|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 3
+2021-03-06 17:57:47.8223|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 4
+2021-03-06 17:57:47.8373|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 5
+2021-03-06 17:57:47.8373|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 6
+2021-03-06 17:57:47.8373|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 7
+2021-03-06 17:57:47.8373|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 8
+2021-03-06 17:57:47.8564|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 9
+2021-03-06 17:57:47.8564|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 10
+2021-03-06 17:57:47.8677|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 11
+2021-03-06 17:57:47.8677|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 12
+2021-03-06 17:57:47.8677|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 13
+2021-03-06 17:57:47.8881|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 14
+2021-03-06 17:57:47.8881|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 15
+2021-03-06 17:57:47.9007|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 16
+2021-03-06 17:57:47.9007|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 17
+2021-03-06 17:57:47.9007|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 18
+2021-03-06 17:57:47.9007|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 19
+2021-03-06 17:57:47.9192|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 20
+2021-03-06 17:57:47.9192|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 21
+2021-03-06 17:57:47.9192|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 22
+2021-03-06 17:57:47.9333|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 23
+2021-03-06 17:57:47.9333|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 24
+2021-03-06 17:57:47.9333|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 25
+2021-03-06 17:57:47.9469|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 26
+2021-03-06 17:57:47.9469|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 27
+2021-03-06 17:57:47.9469|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 28
+2021-03-06 17:57:47.9469|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 29
+2021-03-06 17:57:47.9469|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 30
+2021-03-06 17:57:47.9644|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 31
+2021-03-06 17:57:47.9644|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 32
+2021-03-06 17:57:47.9644|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 33
+2021-03-06 17:57:47.9804|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 34
+2021-03-06 17:57:47.9804|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 35
+2021-03-06 17:57:47.9804|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 36
+2021-03-06 17:57:47.9937|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 37
+2021-03-06 17:57:47.9937|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 38
+2021-03-06 17:57:47.9937|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 39
+2021-03-06 17:57:48.0103|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 40
+2021-03-06 17:57:48.0103|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 41
+2021-03-06 17:57:48.0103|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 42
+2021-03-06 17:57:48.0103|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 43
+2021-03-06 17:57:48.0240|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 44
+2021-03-06 17:57:48.0240|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 45
+2021-03-06 17:57:48.0240|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 46
+2021-03-06 17:57:48.0418|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 47
+2021-03-06 17:57:48.0418|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 48
+2021-03-06 17:57:48.0565|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 49
+2021-03-06 17:57:48.0565|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 50
+2021-03-06 17:57:48.0565|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 51
+2021-03-06 17:57:48.0730|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 52
+2021-03-06 17:57:48.0730|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 53
+2021-03-06 17:57:48.0730|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 54
+2021-03-06 17:57:48.0874|INFO|SerilogProject.Controllers.WeatherForecastController|The value of i is 55
+2021-03-06 17:57:48.2775|ERROR|SerilogProject.Controllers.WeatherForecastController|We got this exception

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lLpLZnIpUS7IMTjB8QY8cikX5iEBSrgD7r5vwZ9kDDpLDDuKkyGDyctmALTEIK1AKGWap4nDIeD7TE4bQdJvzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rajes\\OneDrive\\Desktop\\ProtoBuf-main\\SecondDemonstration\\SecondDemonstration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rajes\\.nuget\\packages\\protobuf-net\\3.0.73\\protobuf-net.3.0.73.nupkg.sha512",
+    "C:\\Users\\rajes\\.nuget\\packages\\protobuf-net.core\\3.0.73\\protobuf-net.core.3.0.73.nupkg.sha512"
+  ],
+  "logs": []
+}

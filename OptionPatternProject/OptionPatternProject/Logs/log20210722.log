@@ -1,0 +1,31 @@
+2021-07-22 17:32:20.153 +05:30 [INF] Starting up
+2021-07-22 17:32:23.232 +05:30 [INF] Now listening on: https://localhost:5001
+2021-07-22 17:32:23.237 +05:30 [INF] Now listening on: http://localhost:5000
+2021-07-22 17:32:23.237 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-22 17:32:23.238 +05:30 [INF] Hosting environment: Development
+2021-07-22 17:32:23.239 +05:30 [INF] Content root path: C:\Users\rajes\OneDrive\Desktop\Task\OptionPatternProject\OptionPatternProject
+2021-07-22 17:32:30.643 +05:30 [INF] {Scheme},GET,{Path},{Query},404,43.65
+2021-07-22 17:32:30.796 +05:30 [INF] {Scheme},GET,{Path},{Query},404,1.00
+2021-07-22 17:32:47.514 +05:30 [INF] {Scheme},GET,{Path},{Query},200,9988.35
+2021-07-22 17:33:17.094 +05:30 [INF] {Scheme},GET,{Path},{Query},200,7301.29
+2021-07-22 17:37:39.031 +05:30 [INF] Starting up
+2021-07-22 17:37:41.640 +05:30 [INF] Now listening on: https://localhost:5001
+2021-07-22 17:37:41.645 +05:30 [INF] Now listening on: http://localhost:5000
+2021-07-22 17:37:41.648 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-22 17:37:41.649 +05:30 [INF] Hosting environment: Development
+2021-07-22 17:37:41.650 +05:30 [INF] Content root path: C:\Users\rajes\OneDrive\Desktop\Task\OptionPatternProject\OptionPatternProject
+2021-07-22 17:37:45.547 +05:30 [INF] {Scheme},GET,{Path},{Query},404,100.50
+2021-07-22 17:37:45.798 +05:30 [INF] {Scheme},GET,{Path},{Query},404,0.72
+2021-07-22 17:37:57.013 +05:30 [INF] {Scheme},GET,{Path},{Query},200,6922.16
+2021-07-22 17:38:27.587 +05:30 [INF] {Scheme},GET,{Path},{Query},200,14712.95
+2021-07-22 17:41:45.467 +05:30 [INF] Starting up
+2021-07-22 17:41:47.019 +05:30 [INF] Now listening on: https://localhost:5001
+2021-07-22 17:41:47.043 +05:30 [INF] Now listening on: http://localhost:5000
+2021-07-22 17:41:47.045 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-22 17:41:47.045 +05:30 [INF] Hosting environment: Development
+2021-07-22 17:41:47.046 +05:30 [INF] Content root path: C:\Users\rajes\OneDrive\Desktop\Task\OptionPatternProject\OptionPatternProject
+2021-07-22 17:41:54.755 +05:30 [INF] {Scheme},GET,{Path},{Query},404,36.75
+2021-07-22 17:41:54.869 +05:30 [INF] {Scheme},GET,{Path},{Query},404,0.89
+2021-07-22 17:42:34.110 +05:30 [INF] {Scheme},GET,{Path},{Query},200,29105.92
+2021-07-22 17:43:01.253 +05:30 [INF] {Scheme},GET,{Path},{Query},200,22436.30
+2021-07-22 17:43:22.055 +05:30 [INF] {Scheme},GET,{Path},{Query},200,10824.56

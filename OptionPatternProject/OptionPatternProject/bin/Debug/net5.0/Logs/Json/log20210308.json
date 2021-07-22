@@ -1,0 +1,151 @@
+{
+  "@t": "2021-03-08T10:47:02.4192870Z",
+  "@mt": "Starting up",
+  "MachineName": "LAPTOP-GSH0TUU5",
+  "ProcessId": 1312,
+  "ThreadId": 1
+} {
+  "@t": "2021-03-08T10:47:08.5872820Z",
+  "@mt": "Now listening on: {address}",
+  "address": "https://localhost:5001",
+  "SourceContext": "Microsoft.Hosting.Lifetime",
+  "MachineName": "LAPTOP-GSH0TUU5",
+  "ProcessId": 1312,
+  "ThreadId": 1
+} {
+  "@t": "2021-03-08T10:47:08.6026397Z",
+  "@mt": "Now listening on: {address}",
+  "address": "http://localhost:5000",
+  "SourceContext": "Microsoft.Hosting.Lifetime",
+  "MachineName": "LAPTOP-GSH0TUU5",
+  "ProcessId": 1312,
+  "ThreadId": 1
+} {
+  "@t": "2021-03-08T10:47:08.6065487Z",
+  "@mt": "Application started. Press Ctrl+C to shut down.",
+  "SourceContext": "Microsoft.Hosting.Lifetime",
+  "MachineName": "LAPTOP-GSH0TUU5",
+  "ProcessId": 1312,
+  "ThreadId": 1
+} {
+  "@t": "2021-03-08T10:47:08.6088965Z",
+  "@mt": "Hosting environment: {envName}",
+  "envName": "Development",
+  "SourceContext": "Microsoft.Hosting.Lifetime",
+  "MachineName": "LAPTOP-GSH0TUU5",
+  "ProcessId": 1312,
+  "ThreadId": 1
+} {
+  "@t": "2021-03-08T10:47:08.6105822Z",
+  "@mt": "Content root path: {contentRoot}",
+  "contentRoot": "C:\\Users\\rajes\\OneDrive\\Desktop\\Task\\OptionPatternProject\\OptionPatternProject",
+  "SourceContext": "Microsoft.Hosting.Lifetime",
+  "MachineName": "LAPTOP-GSH0TUU5",
+  "ProcessId": 1312,
+  "ThreadId": 1
+} {
+  "@t": "2021-03-08T10:47:17.0492672Z",
+  "@mt": "{Scheme},{RequestMethod},{Path},{Query},{StatusCode},{Elapsed:0.00}",
+  "@r": [ "89.53" ],
+  "RequestMethod": "GET",
+  "RequestPath": "/swagger/swagger-ui-standalone-preset.js.map",
+  "StatusCode": 404,
+  "Elapsed": 89.5277,
+  "SourceContext": "Serilog.AspNetCore.RequestLoggingMiddleware",
+  "RequestId": "0HM723U2QVNIN:00000002",
+  "ConnectionId": "0HM723U2QVNIN",
+  "MachineName": "LAPTOP-GSH0TUU5",
+  "ProcessId": 1312,
+  "ThreadId": 8
+} {
+  "@t": "2021-03-08T10:47:17.0492672Z",
+  "@mt": "{Scheme},{RequestMethod},{Path},{Query},{StatusCode},{Elapsed:0.00}",
+  "@r": [ "88.70" ],
+  "RequestMethod": "GET",
+  "RequestPath": "/swagger/swagger-ui-bundle.js.map",
+  "StatusCode": 404,
+  "Elapsed": 88.7046,
+  "SourceContext": "Serilog.AspNetCore.RequestLoggingMiddleware",
+  "RequestId": "0HM723U2QVNIM:00000002",
+  "ConnectionId": "0HM723U2QVNIM",
+  "MachineName": "LAPTOP-GSH0TUU5",
+  "ProcessId": 1312,
+  "ThreadId": 5
+} {
+  "@t": "2021-03-08T10:47:23.0658146Z",
+  "@mt": "Application is shutting down...",
+  "SourceContext": "Microsoft.Hosting.Lifetime",
+  "MachineName": "LAPTOP-GSH0TUU5",
+  "ProcessId": 1312,
+  "ThreadId": 2
+}
+{"@t":"2021-03-08T10:51:08.4479230Z","@mt":"Starting up","MachineName":"LAPTOP-GSH0TUU5","ProcessId":21352,"ThreadId":1}
+{"@t":"2021-03-08T10:51:09.4649538Z","@mt":"Now listening on: {address}","address":"https://localhost:5001","SourceContext":"Microsoft.Hosting.Lifetime","MachineName":"LAPTOP-GSH0TUU5","ProcessId":21352,"ThreadId":1}
+{"@t":"2021-03-08T10:51:09.4685624Z","@mt":"Now listening on: {address}","address":"http://localhost:5000","SourceContext":"Microsoft.Hosting.Lifetime","MachineName":"LAPTOP-GSH0TUU5","ProcessId":21352,"ThreadId":1}
+{"@t":"2021-03-08T10:51:09.4694683Z","@mt":"Application started. Press Ctrl+C to shut down.","SourceContext":"Microsoft.Hosting.Lifetime","MachineName":"LAPTOP-GSH0TUU5","ProcessId":21352,"ThreadId":1}
+{"@t":"2021-03-08T10:51:09.4700959Z","@mt":"Hosting environment: {envName}","envName":"Development","SourceContext":"Microsoft.Hosting.Lifetime","MachineName":"LAPTOP-GSH0TUU5","ProcessId":21352,"ThreadId":1}
+{"@t":"2021-03-08T10:51:09.4707525Z","@mt":"Content root path: {contentRoot}","contentRoot":"C:\\Users\\rajes\\OneDrive\\Desktop\\Task\\OptionPatternProject\\OptionPatternProject","SourceContext":"Microsoft.Hosting.Lifetime","MachineName":"LAPTOP-GSH0TUU5","ProcessId":21352,"ThreadId":1}
+{"@t":"2021-03-08T10:51:12.3714311Z","@mt":"Application is shutting down...","SourceContext":"Microsoft.Hosting.Lifetime","MachineName":"LAPTOP-GSH0TUU5","ProcessId":21352,"ThreadId":2}
+{"@t":"2021-03-08T10:54:55.3757071Z","@mt":"Starting up","MachineName":"LAPTOP-GSH0TUU5","ProcessId":3188,"ThreadId":1}
+{"@t":"2021-03-08T10:54:56.5391449Z","@mt":"Now listening on: {address}","address":"https://localhost:5001","SourceContext":"Microsoft.Hosting.Lifetime","MachineName":"LAPTOP-GSH0TUU5","ProcessId":3188,"ThreadId":1}
+{"@t":"2021-03-08T10:54:56.5477968Z","@mt":"Now listening on: {address}","address":"http://localhost:5000","SourceContext":"Microsoft.Hosting.Lifetime","MachineName":"LAPTOP-GSH0TUU5","ProcessId":3188,"ThreadId":1}
+{"@t":"2021-03-08T10:54:56.5497021Z","@mt":"Application started. Press Ctrl+C to shut down.","SourceContext":"Microsoft.Hosting.Lifetime","MachineName":"LAPTOP-GSH0TUU5","ProcessId":3188,"ThreadId":1}
+{"@t":"2021-03-08T10:54:56.5506164Z","@mt":"Hosting environment: {envName}","envName":"Development","SourceContext":"Microsoft.Hosting.Lifetime","MachineName":"LAPTOP-GSH0TUU5","ProcessId":3188,"ThreadId":1}
+{"@t":"2021-03-08T10:54:56.5520594Z","@mt":"Content root path: {contentRoot}","contentRoot":"C:\\Users\\rajes\\OneDrive\\Desktop\\Task\\OptionPatternProject\\OptionPatternProject","SourceContext":"Microsoft.Hosting.Lifetime","MachineName":"LAPTOP-GSH0TUU5","ProcessId":3188,"ThreadId":1}
+{"@t":"2021-03-08T10:55:01.9188781Z","@mt":"{Scheme},{RequestMethod},{Path},{Query},{StatusCode},{Elapsed:0.00}","@r":["49.94"],"RequestMethod":"GET","RequestPath":"/swagger/swagger-ui-standalone-preset.js.map","StatusCode":404,"Elapsed":49.9424,"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HM7242E972EM:00000002","ConnectionId":"0HM7242E972EM","MachineName":"LAPTOP-GSH0TUU5","ProcessId":3188,"ThreadId":4}
+{"@t":"2021-03-08T10:55:01.9188781Z","@mt":"{Scheme},{RequestMethod},{Path},{Query},{StatusCode},{Elapsed:0.00}","@r":["49.18"],"RequestMethod":"GET","RequestPath":"/swagger/swagger-ui-bundle.js.map","StatusCode":404,"Elapsed":49.1805,"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HM7242E972EL:00000002","ConnectionId":"0HM7242E972EL","MachineName":"LAPTOP-GSH0TUU5","ProcessId":3188,"ThreadId":14}
+{"@t":"2021-03-08T10:55:33.6563171Z","@mt":"Entered GetOptionService method","SourceContext":"OptionPatternProject.Controllers.WeatherForecastController","ActionId":"5c169eae-f97a-422b-b547-2fadbd6fe3d2","ActionName":"OptionPatternProject.Controllers.WeatherForecastController.GetOptionservice (OptionPatternProject)","RequestId":"0HM7242E972EK:00000005","RequestPath":"/WeatherForecast","ConnectionId":"0HM7242E972EK","MachineName":"LAPTOP-GSH0TUU5","ProcessId":3188,"ThreadId":8}
+{"@t":"2021-03-08T10:55:33.7048548Z","@mt":"{Scheme},{RequestMethod},{Path},{Query},{StatusCode},{Elapsed:0.00}","@r":["184.91"],"RequestMethod":"GET","RequestPath":"/WeatherForecast","StatusCode":200,"Elapsed":184.9064,"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HM7242E972EK:00000005","ConnectionId":"0HM7242E972EK","MachineName":"LAPTOP-GSH0TUU5","ProcessId":3188,"ThreadId":8}
+{"@t":"2021-03-08T10:55:50.5643652Z","@mt":"Entered GetOptionService method","SourceContext":"OptionPatternProject.Controllers.WeatherForecastController","ActionId":"5c169eae-f97a-422b-b547-2fadbd6fe3d2","ActionName":"OptionPatternProject.Controllers.WeatherForecastController.GetOptionservice (OptionPatternProject)","RequestId":"0HM7242E972EK:00000007","RequestPath":"/WeatherForecast","ConnectionId":"0HM7242E972EK","MachineName":"LAPTOP-GSH0TUU5","ProcessId":3188,"ThreadId":19}
+{"@t":"2021-03-08T10:55:50.5916219Z","@mt":"{Scheme},{RequestMethod},{Path},{Query},{StatusCode},{Elapsed:0.00}","@r":["29.33"],"RequestMethod":"GET","RequestPath":"/WeatherForecast","StatusCode":200,"Elapsed":29.3257,"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HM7242E972EK:00000007","ConnectionId":"0HM7242E972EK","MachineName":"LAPTOP-GSH0TUU5","ProcessId":3188,"ThreadId":19}
+{"@t":"2021-03-08T10:56:37.3133955Z","@mt":"Entered GetOptionSnapShot methos","SourceContext":"OptionPatternProject.Controllers.WeatherForecastController","ActionId":"f2127ec4-7c7d-4edf-9520-b90da7f5b325","ActionName":"OptionPatternProject.Controllers.WeatherForecastController.GetOptionSnapshot (OptionPatternProject)","RequestId":"0HM7242E972EK:00000009","RequestPath":"/WeatherForecast/GetOptionSnapshot","ConnectionId":"0HM7242E972EK","MachineName":"LAPTOP-GSH0TUU5","ProcessId":3188,"ThreadId":25}
+{"@t":"2021-03-08T10:56:37.3145805Z","@mt":"{Scheme},{RequestMethod},{Path},{Query},{StatusCode},{Elapsed:0.00}","@r":["112.76"],"RequestMethod":"GET","RequestPath":"/WeatherForecast/GetOptionSnapshot","StatusCode":200,"Elapsed":112.7585,"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HM7242E972EK:00000009","ConnectionId":"0HM7242E972EK","MachineName":"LAPTOP-GSH0TUU5","ProcessId":3188,"ThreadId":25}
+{"@t":"2021-03-08T10:56:52.2009385Z","@mt":"Entered GetOptionSnapShot methos","SourceContext":"OptionPatternProject.Controllers.WeatherForecastController","ActionId":"f2127ec4-7c7d-4edf-9520-b90da7f5b325","ActionName":"OptionPatternProject.Controllers.WeatherForecastController.GetOptionSnapshot (OptionPatternProject)","RequestId":"0HM7242E972EK:0000000B","RequestPath":"/WeatherForecast/GetOptionSnapshot","ConnectionId":"0HM7242E972EK","MachineName":"LAPTOP-GSH0TUU5","ProcessId":3188,"ThreadId":25}
+{"@t":"2021-03-08T10:56:52.2027958Z","@mt":"{Scheme},{RequestMethod},{Path},{Query},{StatusCode},{Elapsed:0.00}","@r":["3.10"],"RequestMethod":"GET","RequestPath":"/WeatherForecast/GetOptionSnapshot","StatusCode":200,"Elapsed":3.1024,"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HM7242E972EK:0000000B","ConnectionId":"0HM7242E972EK","MachineName":"LAPTOP-GSH0TUU5","ProcessId":3188,"ThreadId":25}
+{"@t":"2021-03-08T10:56:55.6181297Z","@mt":"Entered GetOptionSnapShot methos","SourceContext":"OptionPatternProject.Controllers.WeatherForecastController","ActionId":"f2127ec4-7c7d-4edf-9520-b90da7f5b325","ActionName":"OptionPatternProject.Controllers.WeatherForecastController.GetOptionSnapshot (OptionPatternProject)","RequestId":"0HM7242E972EK:0000000D","RequestPath":"/WeatherForecast/GetOptionSnapshot","ConnectionId":"0HM7242E972EK","MachineName":"LAPTOP-GSH0TUU5","ProcessId":3188,"ThreadId":4}
+{"@t":"2021-03-08T10:56:55.6192782Z","@mt":"{Scheme},{RequestMethod},{Path},{Query},{StatusCode},{Elapsed:0.00}","@r":["1.28"],"RequestMethod":"GET","RequestPath":"/WeatherForecast/GetOptionSnapshot","StatusCode":200,"Elapsed":1.2775,"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HM7242E972EK:0000000D","ConnectionId":"0HM7242E972EK","MachineName":"LAPTOP-GSH0TUU5","ProcessId":3188,"ThreadId":4}
+{"@t":"2021-03-08T10:57:06.2511847Z","@mt":"Entered GetOptionSnapShot methos","SourceContext":"OptionPatternProject.Controllers.WeatherForecastController","ActionId":"f2127ec4-7c7d-4edf-9520-b90da7f5b325","ActionName":"OptionPatternProject.Controllers.WeatherForecastController.GetOptionSnapshot (OptionPatternProject)","RequestId":"0HM7242E972EK:0000000F","RequestPath":"/WeatherForecast/GetOptionSnapshot","ConnectionId":"0HM7242E972EK","MachineName":"LAPTOP-GSH0TUU5","ProcessId":3188,"ThreadId":4}
+{"@t":"2021-03-08T10:57:06.2546288Z","@mt":"{Scheme},{RequestMethod},{Path},{Query},{StatusCode},{Elapsed:0.00}","@r":["3.74"],"RequestMethod":"GET","RequestPath":"/WeatherForecast/GetOptionSnapshot","StatusCode":200,"Elapsed":3.7383,"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HM7242E972EK:0000000F","ConnectionId":"0HM7242E972EK","MachineName":"LAPTOP-GSH0TUU5","ProcessId":3188,"ThreadId":4}
+{"@t":"2021-03-08T10:57:07.1689421Z","@mt":"Entered GetOptionSnapShot methos","SourceContext":"OptionPatternProject.Controllers.WeatherForecastController","ActionId":"f2127ec4-7c7d-4edf-9520-b90da7f5b325","ActionName":"OptionPatternProject.Controllers.WeatherForecastController.GetOptionSnapshot (OptionPatternProject)","RequestId":"0HM7242E972EK:00000011","RequestPath":"/WeatherForecast/GetOptionSnapshot","ConnectionId":"0HM7242E972EK","MachineName":"LAPTOP-GSH0TUU5","ProcessId":3188,"ThreadId":29}
+{"@t":"2021-03-08T10:57:07.1700688Z","@mt":"{Scheme},{RequestMethod},{Path},{Query},{StatusCode},{Elapsed:0.00}","@r":["1.31"],"RequestMethod":"GET","RequestPath":"/WeatherForecast/GetOptionSnapshot","StatusCode":200,"Elapsed":1.3077,"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HM7242E972EK:00000011","ConnectionId":"0HM7242E972EK","MachineName":"LAPTOP-GSH0TUU5","ProcessId":3188,"ThreadId":29}
+{"@t":"2021-03-08T10:57:07.2746090Z","@mt":"Entered GetOptionSnapShot methos","SourceContext":"OptionPatternProject.Controllers.WeatherForecastController","ActionId":"f2127ec4-7c7d-4edf-9520-b90da7f5b325","ActionName":"OptionPatternProject.Controllers.WeatherForecastController.GetOptionSnapshot (OptionPatternProject)","RequestId":"0HM7242E972EK:00000013","RequestPath":"/WeatherForecast/GetOptionSnapshot","ConnectionId":"0HM7242E972EK","MachineName":"LAPTOP-GSH0TUU5","ProcessId":3188,"ThreadId":29}
+{"@t":"2021-03-08T10:57:07.2756821Z","@mt":"{Scheme},{RequestMethod},{Path},{Query},{StatusCode},{Elapsed:0.00}","@r":["1.27"],"RequestMethod":"GET","RequestPath":"/WeatherForecast/GetOptionSnapshot","StatusCode":200,"Elapsed":1.2699,"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HM7242E972EK:00000013","ConnectionId":"0HM7242E972EK","MachineName":"LAPTOP-GSH0TUU5","ProcessId":3188,"ThreadId":29}
+{"@t":"2021-03-08T10:57:07.5294409Z","@mt":"Entered GetOptionSnapShot methos","SourceContext":"OptionPatternProject.Controllers.WeatherForecastController","ActionId":"f2127ec4-7c7d-4edf-9520-b90da7f5b325","ActionName":"OptionPatternProject.Controllers.WeatherForecastController.GetOptionSnapshot (OptionPatternProject)","RequestId":"0HM7242E972EK:00000015","RequestPath":"/WeatherForecast/GetOptionSnapshot","ConnectionId":"0HM7242E972EK","MachineName":"LAPTOP-GSH0TUU5","ProcessId":3188,"ThreadId":4}
+{"@t":"2021-03-08T10:57:07.5302646Z","@mt":"{Scheme},{RequestMethod},{Path},{Query},{StatusCode},{Elapsed:0.00}","@r":["1.12"],"RequestMethod":"GET","RequestPath":"/WeatherForecast/GetOptionSnapshot","StatusCode":200,"Elapsed":1.1151,"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HM7242E972EK:00000015","ConnectionId":"0HM7242E972EK","MachineName":"LAPTOP-GSH0TUU5","ProcessId":3188,"ThreadId":4}
+{"@t":"2021-03-08T10:57:07.8505851Z","@mt":"Entered GetOptionSnapShot methos","SourceContext":"OptionPatternProject.Controllers.WeatherForecastController","ActionId":"f2127ec4-7c7d-4edf-9520-b90da7f5b325","ActionName":"OptionPatternProject.Controllers.WeatherForecastController.GetOptionSnapshot (OptionPatternProject)","RequestId":"0HM7242E972EK:00000017","RequestPath":"/WeatherForecast/GetOptionSnapshot","ConnectionId":"0HM7242E972EK","MachineName":"LAPTOP-GSH0TUU5","ProcessId":3188,"ThreadId":4}
+{"@t":"2021-03-08T10:57:07.8520342Z","@mt":"{Scheme},{RequestMethod},{Path},{Query},{StatusCode},{Elapsed:0.00}","@r":["1.64"],"RequestMethod":"GET","RequestPath":"/WeatherForecast/GetOptionSnapshot","StatusCode":200,"Elapsed":1.64,"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HM7242E972EK:00000017","ConnectionId":"0HM7242E972EK","MachineName":"LAPTOP-GSH0TUU5","ProcessId":3188,"ThreadId":4}
+{"@t":"2021-03-08T10:57:07.9605828Z","@mt":"Entered GetOptionSnapShot methos","SourceContext":"OptionPatternProject.Controllers.WeatherForecastController","ActionId":"f2127ec4-7c7d-4edf-9520-b90da7f5b325","ActionName":"OptionPatternProject.Controllers.WeatherForecastController.GetOptionSnapshot (OptionPatternProject)","RequestId":"0HM7242E972EK:00000019","RequestPath":"/WeatherForecast/GetOptionSnapshot","ConnectionId":"0HM7242E972EK","MachineName":"LAPTOP-GSH0TUU5","ProcessId":3188,"ThreadId":26}
+{"@t":"2021-03-08T10:57:07.9619376Z","@mt":"{Scheme},{RequestMethod},{Path},{Query},{StatusCode},{Elapsed:0.00}","@r":["1.54"],"RequestMethod":"GET","RequestPath":"/WeatherForecast/GetOptionSnapshot","StatusCode":200,"Elapsed":1.5353,"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HM7242E972EK:00000019","ConnectionId":"0HM7242E972EK","MachineName":"LAPTOP-GSH0TUU5","ProcessId":3188,"ThreadId":26}
+{"@t":"2021-03-08T10:57:08.2058111Z","@mt":"Entered GetOptionSnapShot methos","SourceContext":"OptionPatternProject.Controllers.WeatherForecastController","ActionId":"f2127ec4-7c7d-4edf-9520-b90da7f5b325","ActionName":"OptionPatternProject.Controllers.WeatherForecastController.GetOptionSnapshot (OptionPatternProject)","RequestId":"0HM7242E972EK:0000001B","RequestPath":"/WeatherForecast/GetOptionSnapshot","ConnectionId":"0HM7242E972EK","MachineName":"LAPTOP-GSH0TUU5","ProcessId":3188,"ThreadId":26}
+{"@t":"2021-03-08T10:57:08.2070260Z","@mt":"{Scheme},{RequestMethod},{Path},{Query},{StatusCode},{Elapsed:0.00}","@r":["1.41"],"RequestMethod":"GET","RequestPath":"/WeatherForecast/GetOptionSnapshot","StatusCode":200,"Elapsed":1.4091,"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HM7242E972EK:0000001B","ConnectionId":"0HM7242E972EK","MachineName":"LAPTOP-GSH0TUU5","ProcessId":3188,"ThreadId":26}
+{"@t":"2021-03-08T10:57:29.5930342Z","@mt":"Entered GetOptionSnapShot methos","SourceContext":"OptionPatternProject.Controllers.WeatherForecastController","ActionId":"f2127ec4-7c7d-4edf-9520-b90da7f5b325","ActionName":"OptionPatternProject.Controllers.WeatherForecastController.GetOptionSnapshot (OptionPatternProject)","RequestId":"0HM7242E972EK:0000001D","RequestPath":"/WeatherForecast/GetOptionSnapshot","ConnectionId":"0HM7242E972EK","MachineName":"LAPTOP-GSH0TUU5","ProcessId":3188,"ThreadId":4}
+{"@t":"2021-03-08T10:57:29.5941241Z","@mt":"{Scheme},{RequestMethod},{Path},{Query},{StatusCode},{Elapsed:0.00}","@r":["1.30"],"RequestMethod":"GET","RequestPath":"/WeatherForecast/GetOptionSnapshot","StatusCode":200,"Elapsed":1.3021,"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HM7242E972EK:0000001D","ConnectionId":"0HM7242E972EK","MachineName":"LAPTOP-GSH0TUU5","ProcessId":3188,"ThreadId":4}
+{"@t":"2021-03-08T10:57:39.8837753Z","@mt":"Entered GetOptionSnapShot methos","SourceContext":"OptionPatternProject.Controllers.WeatherForecastController","ActionId":"f2127ec4-7c7d-4edf-9520-b90da7f5b325","ActionName":"OptionPatternProject.Controllers.WeatherForecastController.GetOptionSnapshot (OptionPatternProject)","RequestId":"0HM7242E972EK:0000001F","RequestPath":"/WeatherForecast/GetOptionSnapshot","ConnectionId":"0HM7242E972EK","MachineName":"LAPTOP-GSH0TUU5","ProcessId":3188,"ThreadId":4}
+{"@t":"2021-03-08T10:57:39.8882523Z","@mt":"{Scheme},{RequestMethod},{Path},{Query},{StatusCode},{Elapsed:0.00}","@r":["4.66"],"RequestMethod":"GET","RequestPath":"/WeatherForecast/GetOptionSnapshot","StatusCode":200,"Elapsed":4.6593,"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HM7242E972EK:0000001F","ConnectionId":"0HM7242E972EK","MachineName":"LAPTOP-GSH0TUU5","ProcessId":3188,"ThreadId":4}
+{"@t":"2021-03-08T11:37:38.2511487Z","@mt":"Starting up","MachineName":"LAPTOP-GSH0TUU5","ProcessId":24020,"ThreadId":1}
+{"@t":"2021-03-08T11:37:41.6025566Z","@mt":"Now listening on: {address}","address":"https://localhost:5001","SourceContext":"Microsoft.Hosting.Lifetime","MachineName":"LAPTOP-GSH0TUU5","ProcessId":24020,"ThreadId":1}
+{"@t":"2021-03-08T11:37:41.6511871Z","@mt":"Now listening on: {address}","address":"http://localhost:5000","SourceContext":"Microsoft.Hosting.Lifetime","MachineName":"LAPTOP-GSH0TUU5","ProcessId":24020,"ThreadId":1}
+{"@t":"2021-03-08T11:37:41.6538784Z","@mt":"Application started. Press Ctrl+C to shut down.","SourceContext":"Microsoft.Hosting.Lifetime","MachineName":"LAPTOP-GSH0TUU5","ProcessId":24020,"ThreadId":1}
+{"@t":"2021-03-08T11:37:41.6594255Z","@mt":"Hosting environment: {envName}","envName":"Development","SourceContext":"Microsoft.Hosting.Lifetime","MachineName":"LAPTOP-GSH0TUU5","ProcessId":24020,"ThreadId":1}
+{"@t":"2021-03-08T11:37:41.6831309Z","@mt":"Content root path: {contentRoot}","contentRoot":"C:\\Users\\rajes\\OneDrive\\Desktop\\Task\\OptionPatternProject\\OptionPatternProject","SourceContext":"Microsoft.Hosting.Lifetime","MachineName":"LAPTOP-GSH0TUU5","ProcessId":24020,"ThreadId":1}
+{"@t":"2021-03-08T11:37:46.7241407Z","@mt":"Application is shutting down...","SourceContext":"Microsoft.Hosting.Lifetime","MachineName":"LAPTOP-GSH0TUU5","ProcessId":24020,"ThreadId":2}
+{"@t":"2021-03-08T11:39:58.1684109Z","@mt":"Starting up","MachineName":"LAPTOP-GSH0TUU5","ProcessId":12076,"ThreadId":1}
+{"@t":"2021-03-08T11:40:03.6290240Z","@mt":"Now listening on: {address}","address":"https://localhost:5001","SourceContext":"Microsoft.Hosting.Lifetime","MachineName":"LAPTOP-GSH0TUU5","ProcessId":12076,"ThreadId":1}
+{"@t":"2021-03-08T11:40:03.7484840Z","@mt":"Now listening on: {address}","address":"http://localhost:5000","SourceContext":"Microsoft.Hosting.Lifetime","MachineName":"LAPTOP-GSH0TUU5","ProcessId":12076,"ThreadId":1}
+{"@t":"2021-03-08T11:40:03.7540677Z","@mt":"Application started. Press Ctrl+C to shut down.","SourceContext":"Microsoft.Hosting.Lifetime","MachineName":"LAPTOP-GSH0TUU5","ProcessId":12076,"ThreadId":1}
+{"@t":"2021-03-08T11:40:03.7629579Z","@mt":"Hosting environment: {envName}","envName":"Development","SourceContext":"Microsoft.Hosting.Lifetime","MachineName":"LAPTOP-GSH0TUU5","ProcessId":12076,"ThreadId":1}
+{"@t":"2021-03-08T11:40:03.7644377Z","@mt":"Content root path: {contentRoot}","contentRoot":"C:\\Users\\rajes\\OneDrive\\Desktop\\Task\\OptionPatternProject\\OptionPatternProject","SourceContext":"Microsoft.Hosting.Lifetime","MachineName":"LAPTOP-GSH0TUU5","ProcessId":12076,"ThreadId":1}
+{"@t":"2021-03-08T11:40:12.2914255Z","@mt":"{Scheme},{RequestMethod},{Path},{Query},{StatusCode},{Elapsed:0.00}","@r":["102.32"],"RequestMethod":"GET","RequestPath":"/swagger/swagger-ui-bundle.js.map","StatusCode":404,"Elapsed":102.3248,"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HM724RL51GS0:00000002","ConnectionId":"0HM724RL51GS0","MachineName":"LAPTOP-GSH0TUU5","ProcessId":12076,"ThreadId":8}
+{"@t":"2021-03-08T11:40:12.2914255Z","@mt":"{Scheme},{RequestMethod},{Path},{Query},{StatusCode},{Elapsed:0.00}","@r":["103.10"],"RequestMethod":"GET","RequestPath":"/swagger/swagger-ui-standalone-preset.js.map","StatusCode":404,"Elapsed":103.1019,"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HM724RL51GS1:00000002","ConnectionId":"0HM724RL51GS1","MachineName":"LAPTOP-GSH0TUU5","ProcessId":12076,"ThreadId":11}
+{"@t":"2021-03-08T11:40:27.2236848Z","@mt":"Entered GetOptionService method","SourceContext":"OptionPatternProject.Controllers.WeatherForecastController","ActionId":"2d950f69-b85f-428c-9fa5-f9a1832e44cb","ActionName":"OptionPatternProject.Controllers.WeatherForecastController.GetOptionservice (OptionPatternProject)","RequestId":"0HM724RL51GRV:00000005","RequestPath":"/WeatherForecast","ConnectionId":"0HM724RL51GRV","MachineName":"LAPTOP-GSH0TUU5","ProcessId":12076,"ThreadId":12}
+{"@t":"2021-03-08T11:40:27.2490497Z","@mt":"{Scheme},{RequestMethod},{Path},{Query},{StatusCode},{Elapsed:0.00}","@r":["76.25"],"RequestMethod":"GET","RequestPath":"/WeatherForecast","StatusCode":200,"Elapsed":76.2455,"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HM724RL51GRV:00000005","ConnectionId":"0HM724RL51GRV","MachineName":"LAPTOP-GSH0TUU5","ProcessId":12076,"ThreadId":12}
+{"@t":"2021-03-08T11:40:52.3521808Z","@mt":"Entered GetOptionService method","SourceContext":"OptionPatternProject.Controllers.WeatherForecastController","ActionId":"2d950f69-b85f-428c-9fa5-f9a1832e44cb","ActionName":"OptionPatternProject.Controllers.WeatherForecastController.GetOptionservice (OptionPatternProject)","RequestId":"0HM724RL51GRV:00000007","RequestPath":"/WeatherForecast","ConnectionId":"0HM724RL51GRV","MachineName":"LAPTOP-GSH0TUU5","ProcessId":12076,"ThreadId":5}
+{"@t":"2021-03-08T11:40:52.3670178Z","@mt":"{Scheme},{RequestMethod},{Path},{Query},{StatusCode},{Elapsed:0.00}","@r":["15.45"],"RequestMethod":"GET","RequestPath":"/WeatherForecast","StatusCode":200,"Elapsed":15.4469,"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HM724RL51GRV:00000007","ConnectionId":"0HM724RL51GRV","MachineName":"LAPTOP-GSH0TUU5","ProcessId":12076,"ThreadId":5}
+{"@t":"2021-03-08T11:41:16.3662954Z","@mt":"Entered GetOptionSnapShot methos","SourceContext":"OptionPatternProject.Controllers.WeatherForecastController","ActionId":"8ce0f67c-d312-4dd9-ab73-c876677cf28b","ActionName":"OptionPatternProject.Controllers.WeatherForecastController.GetOptionSnapshot (OptionPatternProject)","RequestId":"0HM724RL51GRV:00000009","RequestPath":"/WeatherForecast/GetOptionSnapshot","ConnectionId":"0HM724RL51GRV","MachineName":"LAPTOP-GSH0TUU5","ProcessId":12076,"ThreadId":8}
+{"@t":"2021-03-08T11:41:16.3677873Z","@mt":"{Scheme},{RequestMethod},{Path},{Query},{StatusCode},{Elapsed:0.00}","@r":["19.10"],"RequestMethod":"GET","RequestPath":"/WeatherForecast/GetOptionSnapshot","StatusCode":200,"Elapsed":19.0961,"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HM724RL51GRV:00000009","ConnectionId":"0HM724RL51GRV","MachineName":"LAPTOP-GSH0TUU5","ProcessId":12076,"ThreadId":8}
+{"@t":"2021-03-08T11:41:30.6545278Z","@mt":"Entered GetOptionSnapShot methos","SourceContext":"OptionPatternProject.Controllers.WeatherForecastController","ActionId":"8ce0f67c-d312-4dd9-ab73-c876677cf28b","ActionName":"OptionPatternProject.Controllers.WeatherForecastController.GetOptionSnapshot (OptionPatternProject)","RequestId":"0HM724RL51GRV:0000000B","RequestPath":"/WeatherForecast/GetOptionSnapshot","ConnectionId":"0HM724RL51GRV","MachineName":"LAPTOP-GSH0TUU5","ProcessId":12076,"ThreadId":5}
+{"@t":"2021-03-08T11:41:30.6582745Z","@mt":"{Scheme},{RequestMethod},{Path},{Query},{StatusCode},{Elapsed:0.00}","@r":["25.00"],"RequestMethod":"GET","RequestPath":"/WeatherForecast/GetOptionSnapshot","StatusCode":200,"Elapsed":24.9975,"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HM724RL51GRV:0000000B","ConnectionId":"0HM724RL51GRV","MachineName":"LAPTOP-GSH0TUU5","ProcessId":12076,"ThreadId":5}
+{"@t":"2021-03-08T11:43:01.8763511Z","@mt":"{Scheme},{RequestMethod},{Path},{Query},{StatusCode},{Elapsed:0.00}","@r":["10.16"],"RequestMethod":"GET","RequestPath":"/WeatherForecast/GetOptionMoniter","StatusCode":200,"Elapsed":10.1648,"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HM724RL51GRV:0000000D","ConnectionId":"0HM724RL51GRV","MachineName":"LAPTOP-GSH0TUU5","ProcessId":12076,"ThreadId":8}
+{"@t":"2021-03-08T11:43:27.0602849Z","@mt":"{Scheme},{RequestMethod},{Path},{Query},{StatusCode},{Elapsed:0.00}","@r":["0.69"],"RequestMethod":"GET","RequestPath":"/WeatherForecast/GetOptionMoniter","StatusCode":200,"Elapsed":0.685,"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HM724RL51GRV:0000000F","ConnectionId":"0HM724RL51GRV","MachineName":"LAPTOP-GSH0TUU5","ProcessId":12076,"ThreadId":5}
+{"@t":"2021-03-08T11:45:03.0450820Z","@mt":"{Scheme},{RequestMethod},{Path},{Query},{StatusCode},{Elapsed:0.00}","@r":["4.27"],"RequestMethod":"GET","RequestPath":"/api/NamedOption/GetOption1","StatusCode":200,"Elapsed":4.2729,"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HM724RL51GRV:00000011","ConnectionId":"0HM724RL51GRV","MachineName":"LAPTOP-GSH0TUU5","ProcessId":12076,"ThreadId":19}
+{"@t":"2021-03-08T11:45:16.9652090Z","@mt":"{Scheme},{RequestMethod},{Path},{Query},{StatusCode},{Elapsed:0.00}","@r":["4.25"],"RequestMethod":"GET","RequestPath":"/api/NamedOption/GetOption2","StatusCode":200,"Elapsed":4.2488,"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HM724RL51GRV:00000013","ConnectionId":"0HM724RL51GRV","MachineName":"LAPTOP-GSH0TUU5","ProcessId":12076,"ThreadId":28}

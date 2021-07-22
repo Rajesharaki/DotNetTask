@@ -1,0 +1,9 @@
+Refit:
+------
+     Refit is an automatic type-safe REST library for .NET Core, Xamarin and .NET. 
+Refit turns your REST API into a live interface.
+
+
+lz4:
+----
+its is an alogrithm commpression.LZ4blockarry it will compreess entire message pack sequence as a block of an array

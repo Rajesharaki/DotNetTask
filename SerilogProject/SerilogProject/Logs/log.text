@@ -1,0 +1,530 @@
+2021-03-06 14:29:24.9446 [] Starting up
+2021-03-06 14:29:26.4001 [] Now listening on: https://localhost:5001
+2021-03-06 14:29:26.4084 [] Now listening on: http://localhost:5000
+2021-03-06 14:29:26.4102 [] Application started. Press Ctrl+C to shut down.
+2021-03-06 14:29:26.4118 [] Hosting environment: Development
+2021-03-06 14:29:26.4131 [] Content root path: C:\Users\rajes\OneDrive\Desktop\Task\SerilogProject\SerilogProject
+2021-03-06 14:29:28.5356 [] Request starting HTTP/2 GET https://localhost:5001/weatherforecast  
+2021-03-06 14:29:28.5669 [] Executing endpoint 'SerilogProject.Controllers.WeatherForecastController.Get (SerilogProject)'
+2021-03-06 14:29:28.6174 [] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[SerilogProject.WeatherForecast] Get() on controller SerilogProject.Controllers.WeatherForecastController (SerilogProject).
+2021-03-06 14:29:28.6238 [] called weather forecast
+2021-03-06 14:29:28.6271 [] The value of i is 0
+2021-03-06 14:29:28.6298 [] The value of i is 1
+2021-03-06 14:29:28.6304 [] The value of i is 2
+2021-03-06 14:29:28.6310 [] The value of i is 3
+2021-03-06 14:29:28.6315 [] The value of i is 4
+2021-03-06 14:29:28.6321 [] The value of i is 5
+2021-03-06 14:29:28.6326 [] The value of i is 6
+2021-03-06 14:29:28.6331 [] The value of i is 7
+2021-03-06 14:29:28.6337 [] The value of i is 8
+2021-03-06 14:29:28.6343 [] The value of i is 9
+2021-03-06 14:29:28.6348 [] The value of i is 10
+2021-03-06 14:29:28.6353 [] The value of i is 11
+2021-03-06 14:29:28.6358 [] The value of i is 12
+2021-03-06 14:29:28.6364 [] The value of i is 13
+2021-03-06 14:29:28.6369 [] The value of i is 14
+2021-03-06 14:29:28.6375 [] The value of i is 15
+2021-03-06 14:29:28.6380 [] The value of i is 16
+2021-03-06 14:29:28.6387 [] The value of i is 17
+2021-03-06 14:29:28.6394 [] The value of i is 18
+2021-03-06 14:29:28.6402 [] The value of i is 19
+2021-03-06 14:29:28.6408 [] The value of i is 20
+2021-03-06 14:29:28.6416 [] The value of i is 21
+2021-03-06 14:29:28.6422 [] The value of i is 22
+2021-03-06 14:29:28.6429 [] The value of i is 23
+2021-03-06 14:29:28.6435 [] The value of i is 24
+2021-03-06 14:29:28.6441 [] The value of i is 25
+2021-03-06 14:29:28.6447 [] The value of i is 26
+2021-03-06 14:29:28.6455 [] The value of i is 27
+2021-03-06 14:29:28.6461 [] The value of i is 28
+2021-03-06 14:29:28.6467 [] The value of i is 29
+2021-03-06 14:29:28.6473 [] The value of i is 30
+2021-03-06 14:29:28.6479 [] The value of i is 31
+2021-03-06 14:29:28.6486 [] The value of i is 32
+2021-03-06 14:29:28.6492 [] The value of i is 33
+2021-03-06 14:29:28.6499 [] The value of i is 34
+2021-03-06 14:29:28.6505 [] The value of i is 35
+2021-03-06 14:29:28.6512 [] The value of i is 36
+2021-03-06 14:29:28.6518 [] The value of i is 37
+2021-03-06 14:29:28.6526 [] The value of i is 38
+2021-03-06 14:29:28.6535 [] The value of i is 39
+2021-03-06 14:29:28.6544 [] The value of i is 40
+2021-03-06 14:29:28.6555 [] The value of i is 41
+2021-03-06 14:29:28.6563 [] The value of i is 42
+2021-03-06 14:29:28.6569 [] The value of i is 43
+2021-03-06 14:29:28.6579 [] The value of i is 44
+2021-03-06 14:29:28.6585 [] The value of i is 45
+2021-03-06 14:29:28.6592 [] The value of i is 46
+2021-03-06 14:29:28.6599 [] The value of i is 47
+2021-03-06 14:29:28.6605 [] The value of i is 48
+2021-03-06 14:29:28.6611 [] The value of i is 49
+2021-03-06 14:29:28.6618 [] The value of i is 50
+2021-03-06 14:29:28.6624 [] The value of i is 51
+2021-03-06 14:29:28.6631 [] The value of i is 52
+2021-03-06 14:29:28.6638 [] The value of i is 53
+2021-03-06 14:29:28.6645 [] The value of i is 54
+2021-03-06 14:29:28.6652 [] The value of i is 55
+2021-03-06 14:29:28.6962 [] We got this exception
+System.Exception: This is my demo exception
+   at SerilogProject.Controllers.WeatherForecastController.Get() in C:\Users\rajes\OneDrive\Desktop\Task\SerilogProject\SerilogProject\Controllers\WeatherForecastController.cs:line 42
+2021-03-06 14:29:28.7432 [] Executing ObjectResult, writing value of type 'SerilogProject.WeatherForecast[]'.
+2021-03-06 14:29:28.7657 [] Executed action SerilogProject.Controllers.WeatherForecastController.Get (SerilogProject) in 138.0969ms
+2021-03-06 14:29:28.7689 [] Executed endpoint 'SerilogProject.Controllers.WeatherForecastController.Get (SerilogProject)'
+2021-03-06 14:29:28.7764 [] {Scheme},GET,{Path},{Query},200,226.48
+2021-03-06 14:29:28.7828 [] Request finished in 249.6525ms 200 application/json; charset=utf-8
+2021-03-06 14:29:30.4706 [] Request starting HTTP/2 GET https://localhost:5001/favicon.ico  
+2021-03-06 14:29:30.4823 [] {Scheme},GET,{Path},{Query},404,0.43
+2021-03-06 14:29:30.4860 [] Request finished in 15.5157ms 404 
+2021-03-06 16:14:49.8643 [] Starting up
+2021-03-06 16:14:51.2746 [] Now listening on: https://localhost:5001
+2021-03-06 16:14:51.2813 [] Now listening on: http://localhost:5000
+2021-03-06 16:14:51.2822 [] Application started. Press Ctrl+C to shut down.
+2021-03-06 16:14:51.2830 [] Hosting environment: Development
+2021-03-06 16:14:51.2838 [] Content root path: C:\Users\rajes\OneDrive\Desktop\Task\SerilogProject\SerilogProject
+2021-03-06 16:14:54.8155 [] Request starting HTTP/2 GET https://localhost:5001/weatherforecast  
+2021-03-06 16:14:54.8748 [] Executing endpoint 'SerilogProject.Controllers.WeatherForecastController.Get (SerilogProject)'
+2021-03-06 16:14:54.9960 [] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[SerilogProject.WeatherForecast] Get() on controller SerilogProject.Controllers.WeatherForecastController (SerilogProject).
+2021-03-06 16:14:55.0048 [] called weather forecast
+2021-03-06 16:14:55.0146 [] The value of i is 0
+2021-03-06 16:14:55.0315 [] The value of i is 1
+2021-03-06 16:14:55.0357 [] The value of i is 2
+2021-03-06 16:14:55.0376 [] The value of i is 3
+2021-03-06 16:14:55.0397 [] The value of i is 4
+2021-03-06 16:14:55.0416 [] The value of i is 5
+2021-03-06 16:14:55.0451 [] The value of i is 6
+2021-03-06 16:14:55.0477 [] The value of i is 7
+2021-03-06 16:14:55.0497 [] The value of i is 8
+2021-03-06 16:14:55.0519 [] The value of i is 9
+2021-03-06 16:14:55.0546 [] The value of i is 10
+2021-03-06 16:14:55.0567 [] The value of i is 11
+2021-03-06 16:14:55.0583 [] The value of i is 12
+2021-03-06 16:14:55.0606 [] The value of i is 13
+2021-03-06 16:14:55.0641 [] The value of i is 14
+2021-03-06 16:14:55.0667 [] The value of i is 15
+2021-03-06 16:14:55.0686 [] The value of i is 16
+2021-03-06 16:14:55.0717 [] The value of i is 17
+2021-03-06 16:14:55.0779 [] The value of i is 18
+2021-03-06 16:14:55.0821 [] The value of i is 19
+2021-03-06 16:14:55.0862 [] The value of i is 20
+2021-03-06 16:14:55.0888 [] The value of i is 21
+2021-03-06 16:14:55.0917 [] The value of i is 22
+2021-03-06 16:14:55.0992 [] The value of i is 23
+2021-03-06 16:14:55.1019 [] The value of i is 24
+2021-03-06 16:14:55.1051 [] The value of i is 25
+2021-03-06 16:14:55.1102 [] The value of i is 26
+2021-03-06 16:14:55.1161 [] The value of i is 27
+2021-03-06 16:14:55.1199 [] The value of i is 28
+2021-03-06 16:14:55.1226 [] The value of i is 29
+2021-03-06 16:14:55.1259 [] The value of i is 30
+2021-03-06 16:14:55.1312 [] The value of i is 31
+2021-03-06 16:14:55.1334 [] The value of i is 32
+2021-03-06 16:14:55.1374 [] The value of i is 33
+2021-03-06 16:14:55.1528 [] The value of i is 34
+2021-03-06 16:14:55.1556 [] The value of i is 35
+2021-03-06 16:14:55.1581 [] The value of i is 36
+2021-03-06 16:14:55.1652 [] The value of i is 37
+2021-03-06 16:14:55.1688 [] The value of i is 38
+2021-03-06 16:14:55.1729 [] The value of i is 39
+2021-03-06 16:14:55.1757 [] The value of i is 40
+2021-03-06 16:14:55.1793 [] The value of i is 41
+2021-03-06 16:14:55.1833 [] The value of i is 42
+2021-03-06 16:14:55.1864 [] The value of i is 43
+2021-03-06 16:14:55.1902 [] The value of i is 44
+2021-03-06 16:14:55.1954 [] The value of i is 45
+2021-03-06 16:14:55.1993 [] The value of i is 46
+2021-03-06 16:14:55.2038 [] The value of i is 47
+2021-03-06 16:14:55.2063 [] The value of i is 48
+2021-03-06 16:14:55.2095 [] The value of i is 49
+2021-03-06 16:14:55.2151 [] The value of i is 50
+2021-03-06 16:14:55.2188 [] The value of i is 51
+2021-03-06 16:14:55.2217 [] The value of i is 52
+2021-03-06 16:14:55.2283 [] The value of i is 53
+2021-03-06 16:14:55.2326 [] The value of i is 54
+2021-03-06 16:14:55.2370 [] The value of i is 55
+2021-03-06 16:20:42.5159 [] Starting up
+2021-03-06 16:20:43.3144 [] Now listening on: https://localhost:5001
+2021-03-06 16:20:43.3236 [] Now listening on: http://localhost:5000
+2021-03-06 16:20:43.3246 [] Application started. Press Ctrl+C to shut down.
+2021-03-06 16:20:43.3252 [] Hosting environment: Development
+2021-03-06 16:20:43.3264 [] Content root path: C:\Users\rajes\OneDrive\Desktop\Task\SerilogProject\SerilogProject
+2021-03-06 16:20:46.5969 [] Request starting HTTP/2 GET https://localhost:5001/weatherforecast  
+2021-03-06 16:20:46.6909 [] Executing endpoint 'SerilogProject.Controllers.WeatherForecastController.Get (SerilogProject)'
+2021-03-06 16:20:46.7916 [] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[SerilogProject.WeatherForecast] Get() on controller SerilogProject.Controllers.WeatherForecastController (SerilogProject).
+2021-03-06 16:20:46.8001 [] called weather forecast
+2021-03-06 16:20:46.8059 [] The value of i is 0
+2021-03-06 16:20:46.8134 [] The value of i is 1
+2021-03-06 16:20:46.8159 [] The value of i is 2
+2021-03-06 16:20:46.8180 [] The value of i is 3
+2021-03-06 16:20:46.8205 [] The value of i is 4
+2021-03-06 16:20:46.8243 [] The value of i is 5
+2021-03-06 16:20:46.8264 [] The value of i is 6
+2021-03-06 16:20:46.8289 [] The value of i is 7
+2021-03-06 16:20:46.8326 [] The value of i is 8
+2021-03-06 16:20:46.8344 [] The value of i is 9
+2021-03-06 16:20:46.8364 [] The value of i is 10
+2021-03-06 16:20:46.8375 [] The value of i is 11
+2021-03-06 16:20:46.8407 [] The value of i is 12
+2021-03-06 16:20:46.8427 [] The value of i is 13
+2021-03-06 16:20:46.8452 [] The value of i is 14
+2021-03-06 16:20:46.8467 [] The value of i is 15
+2021-03-06 16:20:46.8500 [] The value of i is 16
+2021-03-06 16:20:46.8515 [] The value of i is 17
+2021-03-06 16:20:46.8525 [] The value of i is 18
+2021-03-06 16:20:46.8554 [] The value of i is 19
+2021-03-06 16:20:46.8581 [] The value of i is 20
+2021-03-06 16:20:46.8639 [] The value of i is 21
+2021-03-06 16:20:46.8680 [] The value of i is 22
+2021-03-06 16:20:46.8734 [] The value of i is 23
+2021-03-06 16:20:46.8770 [] The value of i is 24
+2021-03-06 16:20:46.8800 [] The value of i is 25
+2021-03-06 16:20:46.8841 [] The value of i is 26
+2021-03-06 16:20:46.8859 [] The value of i is 27
+2021-03-06 16:20:46.8888 [] The value of i is 28
+2021-03-06 16:20:46.8917 [] The value of i is 29
+2021-03-06 16:20:46.8945 [] The value of i is 30
+2021-03-06 16:20:46.8988 [] The value of i is 31
+2021-03-06 16:20:46.9029 [] The value of i is 32
+2021-03-06 16:20:46.9057 [] The value of i is 33
+2021-03-06 16:20:46.9086 [] The value of i is 34
+2021-03-06 16:20:46.9124 [] The value of i is 35
+2021-03-06 16:20:46.9177 [] The value of i is 36
+2021-03-06 16:20:46.9190 [] The value of i is 37
+2021-03-06 16:20:46.9217 [] The value of i is 38
+2021-03-06 16:20:46.9231 [] The value of i is 39
+2021-03-06 16:20:46.9279 [] The value of i is 40
+2021-03-06 16:20:46.9332 [] The value of i is 41
+2021-03-06 16:20:46.9364 [] The value of i is 42
+2021-03-06 16:20:46.9382 [] The value of i is 43
+2021-03-06 16:20:46.9395 [] The value of i is 44
+2021-03-06 16:20:46.9439 [] The value of i is 45
+2021-03-06 16:20:46.9465 [] The value of i is 46
+2021-03-06 16:20:46.9535 [] The value of i is 47
+2021-03-06 16:20:46.9562 [] The value of i is 48
+2021-03-06 16:20:46.9591 [] The value of i is 49
+2021-03-06 16:20:46.9633 [] The value of i is 50
+2021-03-06 16:20:46.9671 [] The value of i is 51
+2021-03-06 16:20:46.9692 [] The value of i is 52
+2021-03-06 16:20:46.9730 [] The value of i is 53
+2021-03-06 16:20:46.9768 [] The value of i is 54
+2021-03-06 16:20:46.9797 [] The value of i is 55
+2021-03-06 16:20:47.0498 [] We got this exception
+System.Exception: This is my demo exception
+   at SerilogProject.Controllers.WeatherForecastController.Get() in C:\Users\rajes\OneDrive\Desktop\Task\SerilogProject\SerilogProject\Controllers\WeatherForecastController.cs:line 42
+2021-03-06 16:20:47.1857 [] Executing ObjectResult, writing value of type 'SerilogProject.WeatherForecast[]'.
+2021-03-06 16:20:47.2334 [] Executed action SerilogProject.Controllers.WeatherForecastController.Get (SerilogProject) in 424.2643ms
+2021-03-06 16:20:47.2371 [] Executed endpoint 'SerilogProject.Controllers.WeatherForecastController.Get (SerilogProject)'
+2021-03-06 16:20:47.2446 [] {Scheme},GET,{Path},{Query},200,621.17
+2021-03-06 16:20:47.2529 [] Request finished in 663.9259ms 200 application/json; charset=utf-8
+2021-03-06 16:20:47.6508 [] Request starting HTTP/2 GET https://localhost:5001/favicon.ico  
+2021-03-06 16:20:47.6655 [] {Scheme},GET,{Path},{Query},404,0.31
+2021-03-06 16:20:47.6709 [] Request finished in 19.3227ms 404 
+2021-03-06 16:25:21.6288 [] Starting up
+2021-03-06 16:25:22.6629 [] Now listening on: https://localhost:5001
+2021-03-06 16:25:22.6751 [] Now listening on: http://localhost:5000
+2021-03-06 16:25:22.6780 [] Application started. Press Ctrl+C to shut down.
+2021-03-06 16:25:22.6808 [] Hosting environment: Development
+2021-03-06 16:25:22.6832 [] Content root path: C:\Users\rajes\OneDrive\Desktop\Task\SerilogProject\SerilogProject
+2021-03-06 16:25:25.9509 [] Request starting HTTP/2 GET https://localhost:5001/weatherforecast  
+2021-03-06 16:25:26.0327 [] Executing endpoint 'SerilogProject.Controllers.WeatherForecastController.Get (SerilogProject)'
+2021-03-06 16:25:26.1510 [] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[SerilogProject.WeatherForecast] Get() on controller SerilogProject.Controllers.WeatherForecastController (SerilogProject).
+2021-03-06 16:25:26.1598 [] called weather forecast
+2021-03-06 16:25:26.1678 [] The value of i is 0
+2021-03-06 16:25:26.1744 [] The value of i is 1
+2021-03-06 16:25:26.1764 [] The value of i is 2
+2021-03-06 16:25:26.1797 [] The value of i is 3
+2021-03-06 16:25:26.1822 [] The value of i is 4
+2021-03-06 16:25:26.1841 [] The value of i is 5
+2021-03-06 16:25:26.1859 [] The value of i is 6
+2021-03-06 16:25:26.1914 [] The value of i is 7
+2021-03-06 16:25:26.1949 [] The value of i is 8
+2021-03-06 16:25:26.1975 [] The value of i is 9
+2021-03-06 16:25:26.2007 [] The value of i is 10
+2021-03-06 16:25:26.2025 [] The value of i is 11
+2021-03-06 16:25:26.2043 [] The value of i is 12
+2021-03-06 16:25:26.2076 [] The value of i is 13
+2021-03-06 16:25:26.2133 [] The value of i is 14
+2021-03-06 16:25:26.2155 [] The value of i is 15
+2021-03-06 16:25:26.2183 [] The value of i is 16
+2021-03-06 16:25:26.2219 [] The value of i is 17
+2021-03-06 16:25:26.2245 [] The value of i is 18
+2021-03-06 16:25:26.2302 [] The value of i is 19
+2021-03-06 16:25:26.2327 [] The value of i is 20
+2021-03-06 16:25:26.2358 [] The value of i is 21
+2021-03-06 16:25:26.2405 [] The value of i is 22
+2021-03-06 16:25:26.2434 [] The value of i is 23
+2021-03-06 16:25:26.2462 [] The value of i is 24
+2021-03-06 16:25:26.2505 [] The value of i is 25
+2021-03-06 16:25:26.2541 [] The value of i is 26
+2021-03-06 16:25:26.2555 [] The value of i is 27
+2021-03-06 16:25:26.2581 [] The value of i is 28
+2021-03-06 16:25:26.2620 [] The value of i is 29
+2021-03-06 16:25:26.2638 [] The value of i is 30
+2021-03-06 16:25:26.2650 [] The value of i is 31
+2021-03-06 16:25:26.2662 [] The value of i is 32
+2021-03-06 16:25:26.2673 [] The value of i is 33
+2021-03-06 16:25:26.2684 [] The value of i is 34
+2021-03-06 16:25:26.2696 [] The value of i is 35
+2021-03-06 16:25:26.2724 [] The value of i is 36
+2021-03-06 16:25:26.2738 [] The value of i is 37
+2021-03-06 16:25:26.2773 [] The value of i is 38
+2021-03-06 16:25:26.2785 [] The value of i is 39
+2021-03-06 16:25:26.2813 [] The value of i is 40
+2021-03-06 16:25:26.2824 [] The value of i is 41
+2021-03-06 16:25:26.2865 [] The value of i is 42
+2021-03-06 16:25:26.2891 [] The value of i is 43
+2021-03-06 16:25:26.2940 [] The value of i is 44
+2021-03-06 16:25:26.2980 [] The value of i is 45
+2021-03-06 16:25:26.3024 [] The value of i is 46
+2021-03-06 16:25:26.3047 [] The value of i is 47
+2021-03-06 16:25:26.3079 [] The value of i is 48
+2021-03-06 16:25:26.3132 [] The value of i is 49
+2021-03-06 16:25:26.3163 [] The value of i is 50
+2021-03-06 16:25:26.3188 [] The value of i is 51
+2021-03-06 16:25:26.3232 [] The value of i is 52
+2021-03-06 16:25:26.3276 [] The value of i is 53
+2021-03-06 16:25:26.3305 [] The value of i is 54
+2021-03-06 16:25:26.3349 [] The value of i is 55
+2021-03-06 16:25:26.4144 [] We got this exception
+System.Exception: This is my demo exception
+   at SerilogProject.Controllers.WeatherForecastController.Get() in C:\Users\rajes\OneDrive\Desktop\Task\SerilogProject\SerilogProject\Controllers\WeatherForecastController.cs:line 42
+2021-03-06 16:25:26.5390 [] Executing ObjectResult, writing value of type 'SerilogProject.WeatherForecast[]'.
+2021-03-06 16:25:26.6037 [] Executed action SerilogProject.Controllers.WeatherForecastController.Get (SerilogProject) in 415.1136ms
+2021-03-06 16:25:26.6188 [] Executed endpoint 'SerilogProject.Controllers.WeatherForecastController.Get (SerilogProject)'
+2021-03-06 16:25:26.6237 [] {Scheme},GET,{Path},{Query},200,652.67
+2021-03-06 16:25:26.6418 [] Request finished in 698.9843ms 200 application/json; charset=utf-8
+2021-03-06 16:25:26.7112 [] Request starting HTTP/2 GET https://localhost:5001/favicon.ico  
+2021-03-06 16:25:26.7211 [] {Scheme},GET,{Path},{Query},404,0.23
+2021-03-06 16:25:26.7232 [] Request finished in 11.9648ms 404 
+2021-03-06 16:25:37.7134 [] Application is shutting down...
+2021-03-06 17:44:34.1599 [] Starting up
+2021-03-06 17:44:35.5056 [] Now listening on: https://localhost:5001
+2021-03-06 17:44:35.5199 [] Now listening on: http://localhost:5000
+2021-03-06 17:44:35.5211 [] Application started. Press Ctrl+C to shut down.
+2021-03-06 17:44:35.5218 [] Hosting environment: Development
+2021-03-06 17:44:35.5226 [] Content root path: C:\Users\rajes\OneDrive\Desktop\Task\SerilogProject\SerilogProject
+2021-03-06 17:44:39.2136 [] Request starting HTTP/2 GET https://localhost:5001/weatherforecast  
+2021-03-06 17:44:39.2792 [] Executing endpoint 'SerilogProject.Controllers.WeatherForecastController.Get (SerilogProject)'
+2021-03-06 17:44:39.3848 [] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[SerilogProject.WeatherForecast] Get() on controller SerilogProject.Controllers.WeatherForecastController (SerilogProject).
+2021-03-06 17:44:39.3944 [] called weather forecast
+2021-03-06 17:44:39.3972 [] The value of i is 0
+2021-03-06 17:44:39.4038 [] The value of i is 1
+2021-03-06 17:44:39.4076 [] The value of i is 2
+2021-03-06 17:44:39.4095 [] The value of i is 3
+2021-03-06 17:44:39.4114 [] The value of i is 4
+2021-03-06 17:44:39.4133 [] The value of i is 5
+2021-03-06 17:44:39.4161 [] The value of i is 6
+2021-03-06 17:44:39.4182 [] The value of i is 7
+2021-03-06 17:44:39.4201 [] The value of i is 8
+2021-03-06 17:44:39.4226 [] The value of i is 9
+2021-03-06 17:44:39.4255 [] The value of i is 10
+2021-03-06 17:44:39.4275 [] The value of i is 11
+2021-03-06 17:44:39.4295 [] The value of i is 12
+2021-03-06 17:44:39.4323 [] The value of i is 13
+2021-03-06 17:44:39.4377 [] The value of i is 14
+2021-03-06 17:44:39.4426 [] The value of i is 15
+2021-03-06 17:44:39.4469 [] The value of i is 16
+2021-03-06 17:44:39.4500 [] The value of i is 17
+2021-03-06 17:44:39.4529 [] The value of i is 18
+2021-03-06 17:44:39.4577 [] The value of i is 19
+2021-03-06 17:44:39.4602 [] The value of i is 20
+2021-03-06 17:44:39.4630 [] The value of i is 21
+2021-03-06 17:44:39.4673 [] The value of i is 22
+2021-03-06 17:44:39.4702 [] The value of i is 23
+2021-03-06 17:44:39.4739 [] The value of i is 24
+2021-03-06 17:44:39.4781 [] The value of i is 25
+2021-03-06 17:44:39.4813 [] The value of i is 26
+2021-03-06 17:44:39.4840 [] The value of i is 27
+2021-03-06 17:44:39.4887 [] The value of i is 28
+2021-03-06 17:44:39.4944 [] The value of i is 29
+2021-03-06 17:44:39.5002 [] The value of i is 30
+2021-03-06 17:44:39.5030 [] The value of i is 31
+2021-03-06 17:44:39.5081 [] The value of i is 32
+2021-03-06 17:44:39.5117 [] The value of i is 33
+2021-03-06 17:44:39.5148 [] The value of i is 34
+2021-03-06 17:44:39.5193 [] The value of i is 35
+2021-03-06 17:44:39.5249 [] The value of i is 36
+2021-03-06 17:44:39.5305 [] The value of i is 37
+2021-03-06 17:44:39.5345 [] The value of i is 38
+2021-03-06 17:44:39.5416 [] The value of i is 39
+2021-03-06 17:44:39.5452 [] The value of i is 40
+2021-03-06 17:44:39.5496 [] The value of i is 41
+2021-03-06 17:44:39.5526 [] The value of i is 42
+2021-03-06 17:44:39.5608 [] The value of i is 43
+2021-03-06 17:44:39.5646 [] The value of i is 44
+2021-03-06 17:44:39.5674 [] The value of i is 45
+2021-03-06 17:44:39.5773 [] The value of i is 46
+2021-03-06 17:44:39.5856 [] The value of i is 47
+2021-03-06 17:44:39.5906 [] The value of i is 48
+2021-03-06 17:44:39.5971 [] The value of i is 49
+2021-03-06 17:44:39.6000 [] The value of i is 50
+2021-03-06 17:44:39.6020 [] The value of i is 51
+2021-03-06 17:44:39.6074 [] The value of i is 52
+2021-03-06 17:44:39.6122 [] The value of i is 53
+2021-03-06 17:44:39.6159 [] The value of i is 54
+2021-03-06 17:44:39.6240 [] The value of i is 55
+2021-03-06 17:44:39.6972 [] We got this exception
+System.Exception: This is my demo exception
+   at SerilogProject.Controllers.WeatherForecastController.Get() in C:\Users\rajes\OneDrive\Desktop\Task\SerilogProject\SerilogProject\Controllers\WeatherForecastController.cs:line 42
+2021-03-06 17:44:39.8422 [] Executing ObjectResult, writing value of type 'SerilogProject.WeatherForecast[]'.
+2021-03-06 17:44:39.8925 [] Executed action SerilogProject.Controllers.WeatherForecastController.Get (SerilogProject) in 489.7425ms
+2021-03-06 17:44:39.9004 [] Executed endpoint 'SerilogProject.Controllers.WeatherForecastController.Get (SerilogProject)'
+2021-03-06 17:44:39.9038 [] {Scheme},GET,{Path},{Query},200,671.28
+2021-03-06 17:44:39.9124 [] Request finished in 706.7146ms 200 application/json; charset=utf-8
+2021-03-06 17:44:39.9333 [] Request starting HTTP/2 GET https://localhost:5001/favicon.ico  
+2021-03-06 17:44:39.9450 [] {Scheme},GET,{Path},{Query},404,0.28
+2021-03-06 17:44:39.9484 [] Request finished in 15.1461ms 404 
+2021-03-06 17:44:48.4880 [] Application is shutting down...
+2021-03-06 17:47:01.3471 [] Starting up
+2021-03-06 17:47:01.9779 [] Now listening on: https://localhost:5001
+2021-03-06 17:47:01.9828 [] Now listening on: http://localhost:5000
+2021-03-06 17:47:01.9842 [] Application started. Press Ctrl+C to shut down.
+2021-03-06 17:47:01.9848 [] Hosting environment: Development
+2021-03-06 17:47:01.9854 [] Content root path: C:\Users\rajes\OneDrive\Desktop\Task\SerilogProject\SerilogProject
+2021-03-06 17:47:07.3578 [] Request starting HTTP/2 GET https://localhost:5001/weatherforecast  
+2021-03-06 17:47:07.4247 [] Executing endpoint 'SerilogProject.Controllers.WeatherForecastController.Get (SerilogProject)'
+2021-03-06 17:47:07.5350 [] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[SerilogProject.WeatherForecast] Get() on controller SerilogProject.Controllers.WeatherForecastController (SerilogProject).
+2021-03-06 17:47:07.5435 [] called weather forecast
+2021-03-06 17:47:07.5467 [] The value of i is 0
+2021-03-06 17:47:07.5529 [] The value of i is 1
+2021-03-06 17:47:07.5557 [] The value of i is 2
+2021-03-06 17:47:07.5574 [] The value of i is 3
+2021-03-06 17:47:07.5586 [] The value of i is 4
+2021-03-06 17:47:07.5599 [] The value of i is 5
+2021-03-06 17:47:07.5640 [] The value of i is 6
+2021-03-06 17:47:07.5649 [] The value of i is 7
+2021-03-06 17:47:07.5660 [] The value of i is 8
+2021-03-06 17:47:07.5668 [] The value of i is 9
+2021-03-06 17:47:07.5679 [] The value of i is 10
+2021-03-06 17:47:07.5687 [] The value of i is 11
+2021-03-06 17:47:07.5698 [] The value of i is 12
+2021-03-06 17:47:07.5709 [] The value of i is 13
+2021-03-06 17:47:07.5747 [] The value of i is 14
+2021-03-06 17:47:07.5796 [] The value of i is 15
+2021-03-06 17:47:07.5813 [] The value of i is 16
+2021-03-06 17:47:07.5839 [] The value of i is 17
+2021-03-06 17:47:07.5851 [] The value of i is 18
+2021-03-06 17:47:07.5882 [] The value of i is 19
+2021-03-06 17:47:07.5900 [] The value of i is 20
+2021-03-06 17:47:07.5914 [] The value of i is 21
+2021-03-06 17:47:07.5969 [] The value of i is 22
+2021-03-06 17:47:07.6004 [] The value of i is 23
+2021-03-06 17:47:07.6036 [] The value of i is 24
+2021-03-06 17:47:07.6074 [] The value of i is 25
+2021-03-06 17:47:07.6091 [] The value of i is 26
+2021-03-06 17:47:07.6107 [] The value of i is 27
+2021-03-06 17:47:07.6145 [] The value of i is 28
+2021-03-06 17:47:07.6162 [] The value of i is 29
+2021-03-06 17:47:07.6178 [] The value of i is 30
+2021-03-06 17:47:07.6196 [] The value of i is 31
+2021-03-06 17:47:07.6212 [] The value of i is 32
+2021-03-06 17:47:07.6239 [] The value of i is 33
+2021-03-06 17:47:07.6253 [] The value of i is 34
+2021-03-06 17:47:07.6291 [] The value of i is 35
+2021-03-06 17:47:07.6301 [] The value of i is 36
+2021-03-06 17:47:07.6312 [] The value of i is 37
+2021-03-06 17:47:07.6340 [] The value of i is 38
+2021-03-06 17:47:07.6356 [] The value of i is 39
+2021-03-06 17:47:07.6387 [] The value of i is 40
+2021-03-06 17:47:07.6399 [] The value of i is 41
+2021-03-06 17:47:07.6407 [] The value of i is 42
+2021-03-06 17:47:07.6429 [] The value of i is 43
+2021-03-06 17:47:07.6449 [] The value of i is 44
+2021-03-06 17:47:07.6469 [] The value of i is 45
+2021-03-06 17:47:07.6476 [] The value of i is 46
+2021-03-06 17:47:07.6487 [] The value of i is 47
+2021-03-06 17:47:07.6496 [] The value of i is 48
+2021-03-06 17:47:07.6506 [] The value of i is 49
+2021-03-06 17:47:07.6528 [] The value of i is 50
+2021-03-06 17:47:07.6538 [] The value of i is 51
+2021-03-06 17:47:07.6565 [] The value of i is 52
+2021-03-06 17:47:07.6574 [] The value of i is 53
+2021-03-06 17:47:07.6584 [] The value of i is 54
+2021-03-06 17:47:07.6593 [] The value of i is 55
+2021-03-06 17:47:07.7373 [] We got this exception
+System.Exception: This is my demo exception
+   at SerilogProject.Controllers.WeatherForecastController.Get() in C:\Users\rajes\OneDrive\Desktop\Task\SerilogProject\SerilogProject\Controllers\WeatherForecastController.cs:line 42
+2021-03-06 17:47:07.8510 [] Executing ObjectResult, writing value of type 'SerilogProject.WeatherForecast[]'.
+2021-03-06 17:47:08.0471 [] Executed action SerilogProject.Controllers.WeatherForecastController.Get (SerilogProject) in 485.118ms
+2021-03-06 17:47:08.0511 [] Executed endpoint 'SerilogProject.Controllers.WeatherForecastController.Get (SerilogProject)'
+2021-03-06 17:47:08.0567 [] {Scheme},GET,{Path},{Query},200,683.24
+2021-03-06 17:47:08.0937 [] Request finished in 742.5ms 200 application/json; charset=utf-8
+2021-03-06 17:47:08.1180 [] Request starting HTTP/2 GET https://localhost:5001/favicon.ico  
+2021-03-06 17:47:08.1682 [] {Scheme},GET,{Path},{Query},404,0.36
+2021-03-06 17:47:08.1921 [] Request finished in 74.0936ms 404 
+2021-03-06 17:48:10.6183 [] Starting up
+2021-03-06 17:48:11.7420 [] Now listening on: https://localhost:5001
+2021-03-06 17:48:11.7467 [] Now listening on: http://localhost:5000
+2021-03-06 17:48:11.7476 [] Application started. Press Ctrl+C to shut down.
+2021-03-06 17:48:11.7482 [] Hosting environment: Development
+2021-03-06 17:48:11.7491 [] Content root path: C:\Users\rajes\OneDrive\Desktop\Task\SerilogProject\SerilogProject
+2021-03-06 17:48:16.8527 [] Request starting HTTP/2 GET https://localhost:5001/weatherforecast  
+2021-03-06 17:48:16.9516 [] Executing endpoint 'SerilogProject.Controllers.WeatherForecastController.Get (SerilogProject)'
+2021-03-06 17:48:17.0853 [] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[SerilogProject.WeatherForecast] Get() on controller SerilogProject.Controllers.WeatherForecastController (SerilogProject).
+2021-03-06 17:48:17.0970 [] called weather forecast
+2021-03-06 17:48:17.1033 [] The value of i is 0
+2021-03-06 17:48:17.1130 [] The value of i is 1
+2021-03-06 17:48:17.1170 [] The value of i is 2
+2021-03-06 17:48:17.1205 [] The value of i is 3
+2021-03-06 17:48:17.1223 [] The value of i is 4
+2021-03-06 17:48:17.1267 [] The value of i is 5
+2021-03-06 17:48:17.1290 [] The value of i is 6
+2021-03-06 17:48:17.1311 [] The value of i is 7
+2021-03-06 17:48:17.1368 [] The value of i is 8
+2021-03-06 17:48:17.1392 [] The value of i is 9
+2021-03-06 17:48:17.1423 [] The value of i is 10
+2021-03-06 17:48:17.1510 [] The value of i is 11
+2021-03-06 17:48:17.1538 [] The value of i is 12
+2021-03-06 17:48:17.1560 [] The value of i is 13
+2021-03-06 17:48:17.1587 [] The value of i is 14
+2021-03-06 17:48:17.1613 [] The value of i is 15
+2021-03-06 17:48:17.1664 [] The value of i is 16
+2021-03-06 17:48:17.1709 [] The value of i is 17
+2021-03-06 17:48:17.1757 [] The value of i is 18
+2021-03-06 17:48:17.1785 [] The value of i is 19
+2021-03-06 17:48:17.1814 [] The value of i is 20
+2021-03-06 17:48:17.1874 [] The value of i is 21
+2021-03-06 17:48:17.1901 [] The value of i is 22
+2021-03-06 17:48:17.1930 [] The value of i is 23
+2021-03-06 17:48:17.1971 [] The value of i is 24
+2021-03-06 17:48:17.2005 [] The value of i is 25
+2021-03-06 17:48:17.2033 [] The value of i is 26
+2021-03-06 17:48:17.2084 [] The value of i is 27
+2021-03-06 17:48:17.2106 [] The value of i is 28
+2021-03-06 17:48:17.2141 [] The value of i is 29
+2021-03-06 17:48:17.2224 [] The value of i is 30
+2021-03-06 17:48:17.2281 [] The value of i is 31
+2021-03-06 17:48:17.2338 [] The value of i is 32
+2021-03-06 17:48:17.2401 [] The value of i is 33
+2021-03-06 17:48:17.2496 [] The value of i is 34
+2021-03-06 17:48:17.2561 [] The value of i is 35
+2021-03-06 17:48:17.2623 [] The value of i is 36
+2021-03-06 17:48:17.2712 [] The value of i is 37
+2021-03-06 17:48:17.2778 [] The value of i is 38
+2021-03-06 17:48:17.3010 [] The value of i is 39
+2021-03-06 17:48:17.3105 [] The value of i is 40
+2021-03-06 17:48:17.3263 [] The value of i is 41
+2021-03-06 17:48:17.3353 [] The value of i is 42
+2021-03-06 17:48:17.3404 [] The value of i is 43
+2021-03-06 17:48:17.3459 [] The value of i is 44
+2021-03-06 17:48:17.3509 [] The value of i is 45
+2021-03-06 17:48:17.3549 [] The value of i is 46
+2021-03-06 17:48:17.3590 [] The value of i is 47
+2021-03-06 17:48:17.3616 [] The value of i is 48
+2021-03-06 17:48:17.3635 [] The value of i is 49
+2021-03-06 17:48:17.3651 [] The value of i is 50
+2021-03-06 17:48:17.3686 [] The value of i is 51
+2021-03-06 17:48:17.3704 [] The value of i is 52
+2021-03-06 17:48:17.3731 [] The value of i is 53
+2021-03-06 17:48:17.3744 [] The value of i is 54
+2021-03-06 17:48:17.3755 [] The value of i is 55
+2021-03-06 17:48:17.4447 [] We got this exception
+System.Exception: This is my demo exception
+   at SerilogProject.Controllers.WeatherForecastController.Get() in C:\Users\rajes\OneDrive\Desktop\Task\SerilogProject\SerilogProject\Controllers\WeatherForecastController.cs:line 42
+2021-03-06 17:48:17.5717 [] Executing ObjectResult, writing value of type 'SerilogProject.WeatherForecast[]'.
+2021-03-06 17:48:17.6379 [] Executed action SerilogProject.Controllers.WeatherForecastController.Get (SerilogProject) in 527.7182ms
+2021-03-06 17:48:17.6467 [] Executed endpoint 'SerilogProject.Controllers.WeatherForecastController.Get (SerilogProject)'
+2021-03-06 17:48:17.6644 [] {Scheme},GET,{Path},{Query},200,767.98
+2021-03-06 17:48:17.6734 [] Request finished in 831.2337ms 200 application/json; charset=utf-8
+2021-03-06 17:48:17.7286 [] Request starting HTTP/2 GET https://localhost:5001/favicon.ico  
+2021-03-06 17:48:17.7423 [] {Scheme},GET,{Path},{Query},404,0.22
+2021-03-06 17:48:17.7453 [] Request finished in 16.7406ms 404 
